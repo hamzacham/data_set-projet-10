@@ -6,4 +6,4 @@ Un modèle de cahier est fourni dans le laboratoire ; votre tâche consiste à r
 Quelques conseils pour les questions sont donnés dans le modèle de cahier.Ensemble de données utilisé dans ce travail
 L'ensemble de données contient les prix de vente des maisons pour le comté de King, qui comprend Seattle.
 Il comprend les maisons vendues entre mai 2014 et mai 2015.(voir fichier zip)
-VOUS TROUVEREZ DEUX FICHIER PY. LE PREMIER CONTIENT LES INTSTRUCTIONS ET LES QUESTION, LE SECONDE CONTIENT LES RÉPONSE 
+VOUS TROUVEREZ DEUX FICHIER PY. LE PREMIER CONTIENT LES INTSTRUCTIONS ET LES QUESTION, LE SECONDE CONTIENT LES RÉPONSES
